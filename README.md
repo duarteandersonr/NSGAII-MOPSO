@@ -8,3 +8,5 @@ The input files have the following encoding, Me for Merge topology, Se for Serie
 The execution procedure is carried out through the command prompt in the directory with the gapsoMG1k.exe file and the input files through the following command line: gapsoMG1k.exe < input_file >> output_file
 
 The gapsoMG1k.exe file is the executable file generated after Fortran compilation.
+
+![image](https://user-images.githubusercontent.com/120497714/207408147-40d8b531-2b7b-439b-8100-0a96ce054a1b.png)
