@@ -9,4 +9,6 @@ The execution procedure is carried out through the command prompt in the directo
 
 The gapsoMG1k.exe file is the executable file generated after Fortran compilation.
 
+The exec.bat file runs all the simulations described in the article "Post-processing Improvements in Multi-objective Optimization of General Single-server Finite Queuing Networks".
+
 ![image](https://user-images.githubusercontent.com/120497714/207408147-40d8b531-2b7b-439b-8100-0a96ce054a1b.png)
