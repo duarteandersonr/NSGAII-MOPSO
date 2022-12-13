@@ -1,0 +1,19 @@
+ NUMBER OF QUEUES, NQ
+           3
+ NUMBER OF ARCS, NARCS
+           2
+ STARTING & ENDING NODES, AND ROUTING PROBABILITIES, NS(I), NF(I), RP(I)
+           1           2  0.6    
+           1           3  0.4
+ NUMBER OF SOURCE NODES, NSNOD
+           1
+ SOURCE NODES AND ARRIVAL RATE, SOUR, SLAM(I)
+           1   5.0
+ NUMBER OF END NODES, NEND
+           2
+ END NODES, ENDD
+   2       3
+ SERVICE RATES, COEFF VARIATION,AND TOT CAPACITY, RATE(I), AS(I), W(I)
+   10      0.5       11
+   10      0.5       11
+   10      0.5       11
